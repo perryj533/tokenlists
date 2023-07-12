@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2023-07-12T17:39:51.564Z",
+    "timestamp": "2023-07-12T19:01:12.999Z",
     "tokens": [
         {
             "chainId": 1,
@@ -7359,6 +7359,13 @@
             "address": "0xb0C830DCeB4EF55A60192472c20C8bf19dF03488",
             "name": "Balancer Aave v3 Boosted Pool (WMATIC)",
             "symbol": "bb-a-WMATIC",
+            "decimals": 18
+        },
+        {
+            "chainId": 137,
+            "address": "0xC1381c17d29A22dF5c3015C3D83ebd90AbD0e6b3",
+            "name": "TruStake MATIC Vault Shares (FXERC20)",
+            "symbol": "fxTruMATIC",
             "decimals": 18
         },
         {
